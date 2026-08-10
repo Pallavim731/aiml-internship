@@ -1,0 +1,38 @@
+W5D5 - Five Prompt Test
+=======================
+
+Model: llama3.2:3b
+
+Prompt 1:
+What is artificial intelligence?
+
+Response:
+[Paste response here]
+
+
+Prompt 2:
+Explain machine learning to a beginner.
+
+Response:
+[Paste response here]
+
+
+Prompt 3:
+What is the difference between supervised and unsupervised learning?
+
+Response:
+[Paste response here]
+
+
+Prompt 4:
+Explain what an API is with a simple example.
+
+Response:
+[Paste response here]
+
+
+Prompt 5:
+Why are embeddings useful in AI applications?
+
+Response:
+[Paste response here]

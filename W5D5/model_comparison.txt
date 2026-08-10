@@ -1,0 +1,10 @@
+W5D5 MODEL COMPARISON
+====================
+
+QUESTION 1
+Explain machine learning to a beginner in 100 words.
+
+MODEL: llama3.2:3b
+ANSWER:
+Machine learning is a type of artificial intelligence that enables computers to learn from data without being explicitly programmed. It allows systems to improve their performance on a task over time, based on the data they receive. Machine learning algorithms analyze patterns and relationships in data, making predictions or taking actions accordingly. There are three main types: supervised (learning from labeled data), unsupervised ( discovering patterns in unlabeled data), and reinforcement (learning through trial and error). This approach enables computers to adapt to new situations, improve accuracy, and make informed decisions with minimal human intervention.
+
