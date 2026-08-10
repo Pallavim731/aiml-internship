@@ -1,0 +1,34 @@
+Question 1:
+Explain Machine Learning.
+
+Llama3.2:
+Easy to understand.
+Short explanation.
+More beginner friendly.
+
+Qwen2.5:
+More technical.
+Longer answer.
+Better structured.
+
+----------------------------------
+
+Question 2:
+What is Docker?
+
+Llama3.2:
+Simple explanation.
+
+Qwen2.5:
+Included containers and virtualization.
+
+----------------------------------
+
+Question 3:
+Reverse String
+
+Llama3.2:
+Correct Python code.
+
+Qwen2.5:
+Correct code with explanation.
