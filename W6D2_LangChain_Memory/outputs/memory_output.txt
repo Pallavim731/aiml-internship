@@ -1,0 +1,19 @@
+============================================================
+TURN 1
+USER: My name is Pallavi.
+AI: Hello Pallavi! It's nice to meet you. Since this is the beginning of our conversation, I don't have any information about your previous questions or topics discussed. How can I assist you today? What would you like to talk about?
+
+============================================================
+TURN 2
+USER: What is my name?
+AI: Your name is indeed Pallavi, and we are starting a new conversation. Don't worry, we're just getting started! How's your day going so far, Pallavi? Is there something specific you'd like to chat about or ask for help with? I'm all ears (or rather, all text)!
+
+============================================================
+TURN 3
+USER: I am studying Information Science and Engineering.
+AI: Hello Pallavi! It's great to know that you're studying Information Science and Engineering. That's a fascinating field of study.
+
+What specific area of Information Science and Engineering are you currently focusing on? Are you taking courses in data structures, algorithms, computer networks, or perhaps something else? I'd be happy to help answer any questions or provide guidance if you need it.
+
+Also, what motivated you to pursue this field of study? Is there a particular project or aspect that interests you the most?
+
