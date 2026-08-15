@@ -1,0 +1,69 @@
+W6D5 DOCUMENT CHATBOT TEST OUTPUT
+============================================================
+
+1. LANGCHAIN CHAIN TESTS - 5 INPUTS
+============================================================
+
+Test 1
+Question: What is LangChain?
+Answer: LangChain is an open-source, decentralized, and community-driven framework for building scalable and interoperable blockchain data pipelines. It allows developers to create modular, reusable, and efficient data processing workflows that can be executed on various blockchain networks, such as Ethereum, Solana, and more.
+
+Test 2
+Question: What is Ollama?
+Answer: I couldn't find any information on "Ollama." It's possible that it's a misspelling, a made-up term, or a concept specific to a particular context (e.g., a book, movie, or game). If you could provide more context or clarify what you mean by "Ollama," I'll do my best to help.
+
+Test 3
+Question: What is ChromaDB?
+Answer: ChromaDB is an open-source, web-based database for storing and querying color data, such as color profiles, palettes, and color harmonies. It provides a structured way to organize and analyze color information, making it useful for applications in graphic design, product development, and color science.
+
+Test 4
+Question: What is a vector database?
+Answer: A vector database is a type of database that stores and retrieves data represented as vectors, which are mathematical representations of objects or data points in a high-dimensional space. Vector databases are optimized for efficient similarity searches, such as finding similar documents or images, by allowing for fast and scalable queries over large datasets.
+
+Test 5
+Question: What are embeddings?
+Answer: Embeddings are mathematical representations of data, such as text or images, where each element in the data is mapped to a dense vector in a high-dimensional space. This vector representation captures the semantic meaning of the original data point, allowing for efficient and effective processing and comparison of similar data points.
+
+2. CONVERSATION MEMORY TESTS - 5 TURNS
+============================================================
+
+Turn 1
+User: My name is Pallavi.
+Assistant: Hello Pallavi! It's nice to meet you. How can I assist you today?
+
+Turn 2
+User: What is my name?
+Assistant: Nice to see you again, Pallavi! As we previously discussed, your name is indeed Pallavi. Is there anything else you'd like to know or discuss?
+
+Turn 3
+User: I am working on a LangChain project.
+Assistant: That's exciting! LangChain is an open-source framework for building large language models and other AI applications. What specific aspects of your project are you working on, Pallavi? Are you trying to fine-tune a pre-trained model, implement a new feature, or tackle a particular challenge with your LangChain setup? I'm here to help if you need any guidance or have questions!
+
+Turn 4
+User: What project am I working on?
+Assistant: You're working on a LangChain project, Pallavi! As we previously discussed, it seems like you might be exploring ways to build large language models and other AI applications with this framework. Is there anything specific you'd like to know or discuss about your project? I'm here to help if you need any guidance or have questions!
+
+Turn 5
+User: What local LLM are we using in this project?
+Assistant: I don't see that we've discussed a specific local LLM being used in your LangChain project yet, Pallavi. However, I can help you explore some options!
+
+LangChain supports several popular large language models (LLMs) such as T5, BART, and Longformer. If you're looking for recommendations or want to know more about a particular model's compatibility with LangChain, feel free to ask!
+
+3. AGENT TESTS - 2 TOOLS / 3 TASKS
+============================================================
+
+Task 1
+Tool: calculator
+Input: 25 * 4 + 10
+Result: 110
+
+Task 2
+Tool: calculator
+Input: 144 / 12
+Result: 12.0
+
+Task 3
+Tool: web_search_stub
+Input: What is LangChain?
+Result: Web search stub result for 'What is LangChain?': LangChain is a framework for building applications powered by language models.
+
