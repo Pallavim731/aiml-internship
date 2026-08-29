@@ -1,0 +1,53 @@
+W7D3 - LLAMAINDEX BASIC QUERY RESULTS
+======================================================================
+
+Query 1: What is Artificial Intelligence?
+Answer: Artificial Intelligence is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence, such as learning, reasoning, and understanding language.
+Latency: 116.6047 seconds
+----------------------------------------------------------------------
+
+Query 2: What are the main tasks performed by AI systems?
+Answer: AI systems are designed to perform various tasks that require human intelligence, including learning, reasoning, understanding language, recognizing images, and making predictions.
+Latency: 13.6475 seconds
+----------------------------------------------------------------------
+
+Query 3: What is Machine Learning?
+Answer: Machine Learning is a branch of Artificial Intelligence that enables computers to discover and learn from data, automating tasks without being explicitly programmed for every step.
+Latency: 12.1341 seconds
+----------------------------------------------------------------------
+
+Query 4: What are the three common types of Machine Learning?
+Answer: The three common types of Machine Learning are supervised learning, unsupervised learning, and reinforcement learning.
+Latency: 6.4816 seconds
+----------------------------------------------------------------------
+
+Query 5: What is Deep Learning?
+Answer: A subset of Machine Learning that uses artificial neural networks with multiple layers.
+Latency: 7.5792 seconds
+----------------------------------------------------------------------
+
+Query 6: Where is Deep Learning commonly used?
+Answer: Deep Learning is commonly used in various fields, including computer vision, speech recognition, natural language processing, and recommendation systems.
+Latency: 7.4391 seconds
+----------------------------------------------------------------------
+
+Query 7: What is Natural Language Processing?
+Answer: Natural Language Processing is a field of Artificial Intelligence that focuses on enabling computers to understand and process human language.
+Latency: 11.5744 seconds
+----------------------------------------------------------------------
+
+Query 8: What are some applications of NLP?
+Answer: Applications of NLP include chatbots, sentiment analysis, machine translation, text summarization, question answering, and speech recognition.
+Latency: 7.7423 seconds
+----------------------------------------------------------------------
+
+Query 9: What is Retrieval Augmented Generation?
+Answer: Retrieval Augmented Generation is a method that combines information retrieval with generative AI. This method first retrieves relevant information from a collection of documents and then provides that information to a language model to generate an answer.
+Latency: 15.5096 seconds
+----------------------------------------------------------------------
+
+Query 10: Why are vector databases used in RAG systems?
+Answer: Vector databases are used in RAG systems because they enable fast and efficient searching of documents using semantic similarity, allowing for more accurate retrieval of relevant information.
+Latency: 10.2296 seconds
+----------------------------------------------------------------------
+

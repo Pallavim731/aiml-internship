@@ -1,0 +1,5 @@
+A vector database stores information in the form of numerical vectors called embeddings.
+
+Embeddings represent the meaning of text and allow systems to find documents that are semantically similar to a query.
+
+Vector databases are commonly used in RAG systems for efficient similarity search and document retrieval.

@@ -1,0 +1,5 @@
+Artificial Intelligence, commonly called AI, is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Examples of AI tasks include understanding language, recognizing images, solving problems, making predictions, and decision making.
+
+AI is used in virtual assistants, recommendation systems, autonomous vehicles, healthcare applications, and fraud detection.
