@@ -1,0 +1,57 @@
+Digital Twin and Smart Building Knowledge Base
+
+A digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.
+
+A building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems.
+
+HVAC stands for Heating, Ventilation, and Air Conditioning. An HVAC system controls temperature, humidity, ventilation, and indoor air quality within a building.
+
+A smart building uses digital technologies to monitor and control building systems. Smart building systems can improve occupant comfort, energy efficiency, safety, and operational performance.
+
+Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.
+
+Humidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort.
+
+Energy monitoring allows building operators to understand how much electricity different building systems consume. HVAC systems can represent a significant portion of a building's energy consumption.
+
+An HVAC digital twin can simulate changes in temperature, fan speed, cooling load, energy consumption, and other operational parameters without requiring physical hardware.
+
+Artificial intelligence can be integrated with digital twins to analyse historical data, detect unusual behaviour, predict system performance, and recommend operational improvements.
+
+Generative AI can provide a natural-language interface for a digital twin. Users can ask questions about building conditions, HVAC performance, energy consumption, and system alerts.
+
+Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system retrieves relevant documents from a knowledge base and provides the retrieved information to a language model as context.
+
+ChromaDB is a vector database that can store document embeddings and perform similarity-based retrieval.
+
+Chunking divides large documents into smaller pieces before storing them in a vector database. Chunk size can affect retrieval quality because very small chunks may lose context while very large chunks may contain irrelevant information.
+
+The retrieval parameter k specifies how many documents or chunks are retrieved for a query. Increasing k can provide more context but may also introduce irrelevant information.
+
+RAG evaluation measures how effectively a retrieval-augmented generation system produces answers.
+
+Faithfulness measures whether the generated answer is supported by the retrieved context.
+
+Answer relevancy measures how relevant the generated answer is to the user's question.
+
+Context precision evaluates whether the retrieved context contains relevant information and whether relevant information is ranked appropriately.
+
+Context recall measures whether the retrieved context contains the information necessary to answer the question.
+
+Improving chunk size and retrieval k can improve RAG performance. However, increasing the number of retrieved chunks does not always improve results because irrelevant information can reduce answer quality.
+
+A RAG optimisation process can compare evaluation metrics before and after changing parameters. The configuration with better evaluation results can then be selected for the final system.
+
+Smart building dashboards can display simulated HVAC temperature, humidity, energy consumption, equipment status, alerts, and other operational information.
+
+A digital twin does not necessarily require physical hardware for demonstration. A simulation-based digital twin can generate virtual sensor values and model system behaviour.
+
+Digital twins can help building operators understand the current condition of building equipment and evaluate possible operational changes before applying them to a physical system.
+
+HVAC fault detection can use temperature, humidity, energy consumption, fan speed, and other simulated parameters to identify unusual system behaviour.
+
+Predictive maintenance uses historical and simulated equipment information to estimate when maintenance may be required.
+
+Energy optimisation can involve adjusting HVAC operation according to occupancy, temperature requirements, and energy consumption.
+
+A smart building digital twin can combine a three-dimensional building model, simulated sensor data, HVAC simulation, energy monitoring, alerts, analytics, and artificial intelligence.
