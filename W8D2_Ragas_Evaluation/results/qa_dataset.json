@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is a digital twin?",
+        "answer": "A digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.",
+        "contexts": [
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems.",
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems.",
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems."
+        ]
+    },
+    {
+        "question": "What does HVAC stand for?",
+        "answer": "HVAC stands for Heating, Ventilation, and Air Conditioning.",
+        "contexts": [
+            "HVAC stands for Heating, Ventilation, and Air Conditioning. An HVAC system controls temperature, humidity, ventilation, and indoor air quality within a building.\n\nA smart building uses digital technologies to monitor and control building systems. Smart building systems can improve occupant comfort, energy efficiency, safety, and operational performance.",
+            "HVAC stands for Heating, Ventilation, and Air Conditioning. An HVAC system controls temperature, humidity, ventilation, and indoor air quality within a building.\n\nA smart building uses digital technologies to monitor and control building systems. Smart building systems can improve occupant comfort, energy efficiency, safety, and operational performance.",
+            "HVAC stands for Heating, Ventilation, and Air Conditioning. An HVAC system controls temperature, humidity, ventilation, and indoor air quality within a building.\n\nA smart building uses digital technologies to monitor and control building systems. Smart building systems can improve occupant comfort, energy efficiency, safety, and operational performance."
+        ]
+    },
+    {
+        "question": "What is the purpose of a building digital twin?",
+        "answer": "The purpose of a building digital twin is to represent important components of a building in a virtual environment.",
+        "contexts": [
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems.",
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems.",
+            "Digital Twin and Smart Building Knowledge Base\n\nA digital twin is a virtual representation of a physical system, process, or building. It can be used to monitor, analyse, simulate, and optimise the behaviour of the physical system.\n\nA building digital twin represents important components of a building in a virtual environment. These components may include rooms, HVAC systems, elevators, lighting systems, sensors, and energy systems."
+        ]
+    },
+    {
+        "question": "Why is temperature important in HVAC monitoring?",
+        "answer": "Temperature is important in HVAC monitoring because maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.",
+        "contexts": [
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort.",
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort.",
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort."
+        ]
+    },
+    {
+        "question": "Why is humidity important in HVAC systems?",
+        "answer": "According to the provided context, humidity is important in HVAC systems because:\n\n1. Excessively high humidity can cause discomfort and contribute to moisture-related problems.\n2. Very low humidity can also reduce comfort.",
+        "contexts": [
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort.",
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort.",
+            "Temperature is an important parameter in HVAC monitoring. Maintaining an appropriate indoor temperature can improve occupant comfort and reduce unnecessary energy consumption.\n\nHumidity is another important HVAC parameter. Excessively high humidity can cause discomfort and may contribute to moisture-related problems, while very low humidity can also reduce comfort."
+        ]
+    },
+    {
+        "question": "What is energy monitoring?",
+        "answer": "Energy monitoring allows building operators to understand how much electricity different building systems consume.",
+        "contexts": [
+            "Energy monitoring allows building operators to understand how much electricity different building systems consume. HVAC systems can represent a significant portion of a building's energy consumption.\n\nAn HVAC digital twin can simulate changes in temperature, fan speed, cooling load, energy consumption, and other operational parameters without requiring physical hardware.",
+            "Energy monitoring allows building operators to understand how much electricity different building systems consume. HVAC systems can represent a significant portion of a building's energy consumption.\n\nAn HVAC digital twin can simulate changes in temperature, fan speed, cooling load, energy consumption, and other operational parameters without requiring physical hardware.",
+            "Energy monitoring allows building operators to understand how much electricity different building systems consume. HVAC systems can represent a significant portion of a building's energy consumption.\n\nAn HVAC digital twin can simulate changes in temperature, fan speed, cooling load, energy consumption, and other operational parameters without requiring physical hardware."
+        ]
+    },
+    {
+        "question": "How can AI be integrated with digital twins?",
+        "answer": "Artificial intelligence can be integrated with digital twins to analyse historical data, detect unusual behaviour, predict system performance, and recommend operational improvements.",
+        "contexts": [
+            "Artificial intelligence can be integrated with digital twins to analyse historical data, detect unusual behaviour, predict system performance, and recommend operational improvements.\n\nGenerative AI can provide a natural-language interface for a digital twin. Users can ask questions about building conditions, HVAC performance, energy consumption, and system alerts.",
+            "Artificial intelligence can be integrated with digital twins to analyse historical data, detect unusual behaviour, predict system performance, and recommend operational improvements.\n\nGenerative AI can provide a natural-language interface for a digital twin. Users can ask questions about building conditions, HVAC performance, energy consumption, and system alerts.",
+            "Artificial intelligence can be integrated with digital twins to analyse historical data, detect unusual behaviour, predict system performance, and recommend operational improvements.\n\nGenerative AI can provide a natural-language interface for a digital twin. Users can ask questions about building conditions, HVAC performance, energy consumption, and system alerts."
+        ]
+    },
+    {
+        "question": "What is Retrieval-Augmented Generation?",
+        "answer": "The provided context does not explicitly define Retrieval-Augmented Generation (RAG). It only provides definitions for its various evaluation metrics (Faithfulness, Answer Relevancy, Context Precision, and RAG evaluation).",
+        "contexts": [
+            "RAG evaluation measures how effectively a retrieval-augmented generation system produces answers.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context.\n\nAnswer relevancy measures how relevant the generated answer is to the user's question.\n\nContext precision evaluates whether the retrieved context contains relevant information and whether relevant information is ranked appropriately.",
+            "RAG evaluation measures how effectively a retrieval-augmented generation system produces answers.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context.\n\nAnswer relevancy measures how relevant the generated answer is to the user's question.\n\nContext precision evaluates whether the retrieved context contains relevant information and whether relevant information is ranked appropriately.",
+            "RAG evaluation measures how effectively a retrieval-augmented generation system produces answers.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context.\n\nAnswer relevancy measures how relevant the generated answer is to the user's question.\n\nContext precision evaluates whether the retrieved context contains relevant information and whether relevant information is ranked appropriately."
+        ]
+    },
+    {
+        "question": "What is the purpose of ChromaDB in a RAG system?",
+        "answer": "According to the provided context, ChromaDB is a vector database that can store document embeddings and perform similarity-based retrieval, which is used as context in a RAG system.",
+        "contexts": [
+            "Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system retrieves relevant documents from a knowledge base and provides the retrieved information to a language model as context.\n\nChromaDB is a vector database that can store document embeddings and perform similarity-based retrieval.",
+            "Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system retrieves relevant documents from a knowledge base and provides the retrieved information to a language model as context.\n\nChromaDB is a vector database that can store document embeddings and perform similarity-based retrieval.",
+            "Retrieval-Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system retrieves relevant documents from a knowledge base and provides the retrieved information to a language model as context.\n\nChromaDB is a vector database that can store document embeddings and perform similarity-based retrieval."
+        ]
+    },
+    {
+        "question": "What does the retrieval parameter k control?",
+        "answer": "The retrieval parameter k controls how many documents or chunks are retrieved for a query.",
+        "contexts": [
+            "Chunking divides large documents into smaller pieces before storing them in a vector database. Chunk size can affect retrieval quality because very small chunks may lose context while very large chunks may contain irrelevant information.\n\nThe retrieval parameter k specifies how many documents or chunks are retrieved for a query. Increasing k can provide more context but may also introduce irrelevant information.",
+            "Chunking divides large documents into smaller pieces before storing them in a vector database. Chunk size can affect retrieval quality because very small chunks may lose context while very large chunks may contain irrelevant information.\n\nThe retrieval parameter k specifies how many documents or chunks are retrieved for a query. Increasing k can provide more context but may also introduce irrelevant information.",
+            "Chunking divides large documents into smaller pieces before storing them in a vector database. Chunk size can affect retrieval quality because very small chunks may lose context while very large chunks may contain irrelevant information.\n\nThe retrieval parameter k specifies how many documents or chunks are retrieved for a query. Increasing k can provide more context but may also introduce irrelevant information."
+        ]
+    }
+]
