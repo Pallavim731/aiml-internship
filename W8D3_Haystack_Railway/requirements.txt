@@ -1,0 +1,7 @@
+haystack-ai==3.1.1
+pypdf
+reportlab
+sentence-transformers-haystack
+transformers-haystack
+fastapi
+uvicorn[standard]
