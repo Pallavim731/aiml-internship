@@ -78,3 +78,9 @@ User Request
 → Alert
 → Investigation
 → Optimisation / Re-indexing / Retraining
+
+## 6. Future Improvements
+- Add Prometheus metrics for API monitoring.
+- Add Grafana dashboards for latency, errors, and resource usage.
+- Add automated model performance evaluation.
+
