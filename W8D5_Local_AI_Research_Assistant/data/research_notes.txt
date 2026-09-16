@@ -1,0 +1,15 @@
+Artificial Intelligence
+
+Artificial Intelligence is a field of computer science focused on building systems that can perform tasks requiring human-like intelligence. Common AI applications include natural language processing, computer vision, recommendation systems, and robotics.
+
+Machine Learning
+
+Machine Learning is a subset of artificial intelligence in which systems learn patterns from data. Supervised learning uses labelled examples, while unsupervised learning identifies patterns in unlabelled data.
+
+Digital Twins
+
+A digital twin is a virtual representation of a physical object, system, or process. Digital twins can be used to monitor performance, simulate conditions, detect potential problems, and support decision making.
+
+Smart Buildings
+
+Smart buildings use connected systems and software to monitor and optimize building operations. Applications include HVAC monitoring, energy management, lighting control, occupancy analysis, and predictive maintenance.

@@ -1,0 +1,134 @@
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 22:28:52 2026}: checkout: moving from main to main
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 22:27:06 2026}: checkout: moving from feat/aiml-W7-PallaviCM to main
+[33me7a8f37[m[33m ([m[1;31morigin/feat/aiml-W7-PallaviCM[m[33m, [m[1;32mfeat/aiml-W7-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:25:37 2026}: update by push
+[33me7a8f37[m[33m ([m[1;31morigin/feat/aiml-W7-PallaviCM[m[33m, [m[1;32mfeat/aiml-W7-PallaviCM[m[33m)[m refs/heads/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:25:27 2026}: commit: chore: remove W6 project files from W7 branch
+[33me7a8f37[m[33m ([m[1;31morigin/feat/aiml-W7-PallaviCM[m[33m, [m[1;32mfeat/aiml-W7-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 22:25:27 2026}: commit: chore: remove W6 project files from W7 branch
+[33m1d10608[m HEAD@{Wed Aug 19 22:23:59 2026}: checkout: moving from feat/aiml-W7-PallaviCM to feat/aiml-W7-PallaviCM
+[33m1d10608[m refs/remotes/origin/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:23:00 2026}: update by push
+[33m1d10608[m refs/heads/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:22:50 2026}: commit: chore: remove W6 files from W7 branch
+[33m1d10608[m HEAD@{Wed Aug 19 22:22:50 2026}: commit: chore: remove W6 files from W7 branch
+[33m4edf583[m refs/remotes/origin/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:19:24 2026}: update by push
+[33m4edf583[m refs/heads/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:18:42 2026}: commit: feat: add dense retrieval pipeline
+[33m4edf583[m HEAD@{Wed Aug 19 22:18:42 2026}: commit: feat: add dense retrieval pipeline
+[33mfd82d38[m refs/heads/feat/aiml-W7-PallaviCM@{Wed Aug 19 22:18:28 2026}: commit: feat: add Haystack BM25 retrieval pipeline
+[33mfd82d38[m HEAD@{Wed Aug 19 22:18:28 2026}: commit: feat: add Haystack BM25 retrieval pipeline
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 22:17:05 2026}: checkout: moving from feat/aiml-W7-PallaviCM to feat/aiml-W7-PallaviCM
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 20:35:29 2026}: checkout: moving from feat/aiml-W7-PallaviCM to feat/aiml-W7-PallaviCM
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m refs/heads/feat/aiml-W7-PallaviCM@{Wed Aug 19 20:35:04 2026}: branch: Created from HEAD
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m HEAD@{Wed Aug 19 20:35:04 2026}: checkout: moving from feat/aiml-W6-PallaviCM to feat/aiml-W7-PallaviCM
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Sat Aug 15 20:06:51 2026}: update by push
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m refs/heads/feat/aiml-W6-PallaviCM@{Sat Aug 15 20:06:10 2026}: commit: feat: add W6D5 document chatbot
+[33m177c0f6[m[33m ([m[1;31morigin/feat/aiml-W6-PallaviCM[m[33m, [m[1;32mfeat/aiml-W6-PallaviCM[m[33m)[m HEAD@{Sat Aug 15 20:06:10 2026}: commit: feat: add W6D5 document chatbot
+[33m5209940[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Thu Aug 13 20:14:12 2026}: update by push
+[33m5209940[m refs/heads/feat/aiml-W6-PallaviCM@{Thu Aug 13 20:09:27 2026}: commit: feat: setup LangChain ChromaDB vector store
+[33m5209940[m HEAD@{Thu Aug 13 20:09:27 2026}: commit: feat: setup LangChain ChromaDB vector store
+[33m377a009[m HEAD@{Thu Aug 13 20:08:14 2026}: checkout: moving from feat/aiml-W6-PallaviCM to feat/aiml-W6-PallaviCM
+[33m377a009[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Wed Aug 12 21:38:44 2026}: update by push
+[33m377a009[m HEAD@{Wed Aug 12 21:37:21 2026}: checkout: moving from feat/aiml-W6-PallaviM to feat/aiml-W6-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 12 21:37:13 2026}: reset: moving to HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/feat/aiml-W6-PallaviM@{Wed Aug 12 21:20:11 2026}: branch: Created from HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 12 21:20:11 2026}: checkout: moving from main to feat/aiml-W6-PallaviM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 12 21:19:54 2026}: checkout: moving from feat/aiml-W6-PallaviM to main
+[33m62001c6[m[33m ([m[1;35mrefs/stash[m[33m)[m refs/stash@{Wed Aug 12 21:19:48 2026}: On feat/aiml-W6-PallaviM: W6D2 LangChain Memory changes
+[33m377a009[m HEAD@{Wed Aug 12 21:19:48 2026}: reset: moving to HEAD
+[33m377a009[m HEAD@{Wed Aug 12 21:17:13 2026}: checkout: moving from feat/aiml-W6-PallaviCM to feat/aiml-W6-PallaviM
+[33m377a009[m refs/heads/feat/aiml-W6-PallaviCM@{Wed Aug 12 21:15:46 2026}: commit: feat: add LangChain chain and conversation memory
+[33m377a009[m HEAD@{Wed Aug 12 21:15:46 2026}: commit: feat: add LangChain chain and conversation memory
+[33maca3638[m refs/heads/feat/aiml-W6-PallaviCM@{Wed Aug 12 21:11:01 2026}: commit: feat: add LangChain chain and conversation memory
+[33maca3638[m HEAD@{Wed Aug 12 21:11:01 2026}: commit: feat: add LangChain chain and conversation memory
+[33m611a5c2[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:40:17 2026}: update by push
+[33m611a5c2[m refs/heads/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:40:05 2026}: commit: chore: remove Week 5 files from W6 branch
+[33m611a5c2[m HEAD@{Tue Aug 11 22:40:05 2026}: commit: chore: remove Week 5 files from W6 branch
+[33m10716e2[m HEAD@{Tue Aug 11 22:39:39 2026}: checkout: moving from feat/aiml-W6-PallaviCM to feat/aiml-W6-PallaviCM
+[33m10716e2[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:37:54 2026}: update by push
+[33m10716e2[m refs/heads/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:37:44 2026}: commit: feat: add LangChain memory workflow
+[33m10716e2[m HEAD@{Tue Aug 11 22:37:44 2026}: commit: feat: add LangChain memory workflow
+[33mc3e48a7[m HEAD@{Tue Aug 11 22:35:13 2026}: checkout: moving from feat/aiml-W6-PallaviCM to feat/aiml-W6-PallaviCM
+[33mc3e48a7[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:33:06 2026}: update by push
+[33mc3e48a7[m refs/heads/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:32:35 2026}: commit: feat: add LangChain memory workflow
+[33mc3e48a7[m HEAD@{Tue Aug 11 22:32:35 2026}: commit: feat: add LangChain memory workflow
+[33mbea9aad[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:14:53 2026}: update by push
+[33mbea9aad[m refs/heads/feat/aiml-W6-PallaviCM@{Tue Aug 11 22:14:25 2026}: commit: feat: add LangChain chain and prompt workflow
+[33mbea9aad[m HEAD@{Tue Aug 11 22:14:25 2026}: commit: feat: add LangChain chain and prompt workflow
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W6-PallaviCM@{Tue Aug 11 19:51:23 2026}: update by push
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/feat/aiml-W6-PallaviCM@{Tue Aug 11 19:49:07 2026}: branch: Created from HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Aug 11 19:49:07 2026}: checkout: moving from main to feat/aiml-W6-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Aug 11 19:49:00 2026}: checkout: moving from main to main
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Aug 11 19:46:16 2026}: checkout: moving from feat/aiml-W6-PallaviCM to main
+[33m74fcffb[m HEAD@{Tue Aug 11 19:44:04 2026}: commit: feat: add LangChain chain and prompt workflow
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Aug 11 19:43:35 2026}: checkout: moving from main to feat/aiml-W6-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Aug 11 19:38:49 2026}: checkout: moving from feat/aiml-W6-PallaviCM to main
+[33m1d47f05[m[33m ([m[1;32mfeat/aiml-W5-PallaviM[m[33m)[m HEAD@{Tue Aug 11 19:35:51 2026}: checkout: moving from feat/aiml-W6-PallaviM to feat/aiml-W6-PallaviCM
+[33m1d47f05[m[33m ([m[1;32mfeat/aiml-W5-PallaviM[m[33m)[m HEAD@{Tue Aug 11 11:54:48 2026}: checkout: moving from feat/aiml-W5-PallaviM to feat/aiml-W6-PallaviM
+[33m1d47f05[m[33m ([m[1;32mfeat/aiml-W5-PallaviM[m[33m)[m refs/heads/feat/aiml-W5-PallaviM@{Mon Aug 10 21:40:48 2026}: commit: docs: document local llm testing and model comparison
+[33m1d47f05[m[33m ([m[1;32mfeat/aiml-W5-PallaviM[m[33m)[m HEAD@{Mon Aug 10 21:40:48 2026}: commit: docs: document local llm testing and model comparison
+[33m4d9267a[m refs/heads/feat/aiml-W5-PallaviM@{Mon Aug 10 21:38:06 2026}: pull --rebase origin feat/aiml-W5-PallaviM (finish): refs/heads/feat/aiml-W5-PallaviM onto dcfc05d64364bba2b5d8ffcec5dd7977b2e00a1d
+[33m4d9267a[m HEAD@{Mon Aug 10 21:38:06 2026}: pull --rebase origin feat/aiml-W5-PallaviM (finish): returning to refs/heads/feat/aiml-W5-PallaviM
+[33m4d9267a[m HEAD@{Mon Aug 10 21:38:06 2026}: pull --rebase origin feat/aiml-W5-PallaviM (pick): docs: update W5D1 Ollama implementation and outputs
+[33m7e7c52b[m HEAD@{Mon Aug 10 21:38:06 2026}: pull --rebase origin feat/aiml-W5-PallaviM (pick): feat: ollama setup — local llm inference
+[33mdcfc05d[m HEAD@{Mon Aug 10 21:38:06 2026}: pull --rebase origin feat/aiml-W5-PallaviM (start): checkout dcfc05d64364bba2b5d8ffcec5dd7977b2e00a1d
+[33m4c60f4a[m refs/heads/feat/aiml-W5-PallaviM@{Mon Aug 10 21:37:58 2026}: commit: docs: update W5D1 Ollama implementation and outputs
+[33m4c60f4a[m HEAD@{Mon Aug 10 21:37:58 2026}: commit: docs: update W5D1 Ollama implementation and outputs
+[33m76515db[m refs/heads/feat/aiml-W5-PallaviM@{Mon Aug 10 21:32:47 2026}: commit: feat: ollama setup — local llm inference
+[33m76515db[m HEAD@{Mon Aug 10 21:32:47 2026}: commit: feat: ollama setup — local llm inference
+[33m82efc10[m HEAD@{Thu Aug 6 10:33:36 2026}: checkout: moving from feat/aiml-W5-PallaviM to feat/aiml-W5-PallaviM
+[33m82efc10[m HEAD@{Thu Aug 6 10:30:54 2026}: checkout: moving from feat/aiml-W5-PallaviM to feat/aiml-W5-PallaviM
+[33m82efc10[m HEAD@{Thu Aug 6 10:26:45 2026}: checkout: moving from feat/aiml-W5-PallaviM to feat/aiml-W5-PallaviM
+[33m82efc10[m refs/heads/feat/aiml-W5-PallaviM@{Wed Aug 5 22:37:20 2026}: commit: feat: ollama setup and local inference
+[33m82efc10[m HEAD@{Wed Aug 5 22:37:20 2026}: commit: feat: ollama setup and local inference
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 5 22:36:51 2026}: checkout: moving from main to feat/aiml-W5-PallaviM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 5 22:36:28 2026}: checkout: moving from feat/aiml-W5-PallaviM to main
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/feat/aiml-W5-PallaviM@{Wed Aug 5 22:30:26 2026}: branch: Created from HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 5 22:30:26 2026}: checkout: moving from main to feat/aiml-W5-PallaviM
+[33m0ab47cb[m[33m ([m[1;31morigin/feat/aiml-W4-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W4-PallaviCM@{Wed Aug 5 22:30:20 2026}: pull: fast-forward
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Aug 5 22:30:08 2026}: checkout: moving from feat/aiml-W4-PallaviM to main
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Wed Jul 29 21:15:32 2026}: checkout: moving from feat/aiml-W4-PallaviCM to feat/aiml-W4-PallaviM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W4-PallaviCM@{Mon Jul 27 23:39:27 2026}: update by push
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/feat/aiml-W4-PallaviCM@{Mon Jul 27 23:38:45 2026}: branch: Created from HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Mon Jul 27 23:38:45 2026}: checkout: moving from main to feat/aiml-W4-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Mon Jul 27 23:38:20 2026}: checkout: moving from feat/aiml-W3-PallaviCM to main
+[33m9e329de[m[33m ([m[1;31morigin/feat/aiml-W3-PallaviCM[m[33m, [m[1;32mfeat/aiml-W3-PallaviCM[m[33m)[m refs/heads/feat/aiml-W3-PallaviCM@{Mon Jul 27 23:36:30 2026}: pull: Fast-forward
+[33m3570632[m[33m ([m[1;31morigin/feat/aiml-W2-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W2-PallaviCM@{Mon Jul 27 23:36:30 2026}: pull: fast-forward
+[33m9e329de[m[33m ([m[1;31morigin/feat/aiml-W3-PallaviCM[m[33m, [m[1;32mfeat/aiml-W3-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W3-PallaviCM@{Mon Jul 27 23:36:30 2026}: pull: fast-forward
+[33m9e329de[m[33m ([m[1;31morigin/feat/aiml-W3-PallaviCM[m[33m, [m[1;32mfeat/aiml-W3-PallaviCM[m[33m)[m HEAD@{Mon Jul 27 23:36:30 2026}: pull: Fast-forward
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Jul 21 21:32:00 2026}: checkout: moving from feat/aiml-W3-PallaviCM to feat/aiml-W3-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W3-PallaviCM@{Tue Jul 21 21:26:56 2026}: update by push
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/feat/aiml-W3-PallaviCM@{Tue Jul 21 21:26:26 2026}: branch: Created from HEAD
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Jul 21 21:26:26 2026}: checkout: moving from main to feat/aiml-W3-PallaviCM
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/heads/main@{Tue Jul 21 21:26:17 2026}: pull origin main: Fast-forward
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m refs/remotes/origin/main@{Tue Jul 21 21:26:17 2026}: pull origin main: fast-forward
+[33m4b8388c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeat/aiml-W6-PallaviM[m[33m, [m[1;32mfeat/aiml-W4-PallaviCM[m[33m)[m HEAD@{Tue Jul 21 21:26:17 2026}: pull origin main: Fast-forward
+[33m45da22c[m HEAD@{Tue Jul 21 21:26:04 2026}: checkout: moving from feat/aiml-W2-PallaviM to main
+[33m57f4097[m HEAD@{Tue Jul 21 21:24:26 2026}: commit: chore: remove Week 1 notebooks from Week 2 branch
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m HEAD@{Tue Jul 14 13:15:29 2026}: checkout: moving from feat/aiml-W2-PallaviCM to feat/aiml-W2-PallaviM
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W2-PallaviCM@{Mon Jul 13 23:24:23 2026}: update by push
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m refs/heads/feat/aiml-W2-PallaviCM@{Mon Jul 13 23:08:11 2026}: branch: Created from HEAD
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m HEAD@{Mon Jul 13 23:08:11 2026}: checkout: moving from feat/aiml-W1-PallaviCM to feat/aiml-W2-PallaviCM
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m refs/remotes/origin/feat/aiml-W1-PallaviCM@{Mon Jul 13 10:57:36 2026}: update by push
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m refs/heads/feat/aiml-W1-PallaviCM@{Mon Jul 13 10:57:18 2026}: merge origin/main: Fast-forward
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m HEAD@{Mon Jul 13 10:57:18 2026}: merge origin/main: Fast-forward
+[33mc61d2dc[m[33m ([m[1;31morigin/feat/aiml-W1-PallaviCM[m[33m, [m[1;32mfeat/aiml-W2-PallaviCM[m[33m, [m[1;32mfeat/aiml-W1-PallaviCM[m[33m)[m refs/remotes/origin/main@{Mon Jul 13 10:56:58 2026}: fetch origin: fast-forward
+[33m45da22c[m HEAD@{Mon Jul 13 10:56:46 2026}: checkout: moving from feat/aiml-W1-PallaviCM to feat/aiml-W1-PallaviCM
+[33m45da22c[m HEAD@{Mon Jul 13 10:53:48 2026}: checkout: moving from feat/aiml-W1-PallaviCM to feat/aiml-W1-PallaviCM
+[33m45da22c[m HEAD@{Mon Jul 13 10:41:17 2026}: checkout: moving from feat/aiml-W1-PallaviCM to feat/aiml-W1-PallaviCM
+[33m45da22c[m HEAD@{Mon Jul 13 10:40:47 2026}: checkout: moving from main to feat/aiml-W1-PallaviCM
+[33m45da22c[m HEAD@{Mon Jul 13 10:36:01 2026}: checkout: moving from main to main
+[33m45da22c[m refs/remotes/origin/feat/aiml-W1-PallaviCM@{Mon Jul 13 10:35:39 2026}: update by push
+[33m45da22c[m HEAD@{Mon Jul 13 10:33:58 2026}: checkout: moving from feat/aiml-W1-PallaviCM to main
+[33m45da22c[m refs/heads/feat/aiml-W1-PallaviCM@{Mon Jul 13 10:30:34 2026}: branch: Created from HEAD
+[33m45da22c[m HEAD@{Mon Jul 13 10:30:34 2026}: checkout: moving from main to feat/aiml-W1-PallaviCM
+[33m45da22c[m HEAD@{Mon Jul 13 10:25:02 2026}: checkout: moving from main to main
+[33m45da22c[m HEAD@{Mon Jul 13 10:13:06 2026}: checkout: moving from week1 to main
+[33m45da22c[m HEAD@{Mon Jul 13 10:09:06 2026}: checkout: moving from main to week1
+[33m45da22c[m HEAD@{Mon Jul 13 10:08:23 2026}: checkout: moving from week1 to main
+[33m45da22c[m HEAD@{Mon Jul 13 10:07:54 2026}: checkout: moving from main to week1
+[33m45da22c[m HEAD@{Mon Jul 13 10:07:45 2026}: checkout: moving from week1 to main
+[33m45da22c[m HEAD@{Mon Jul 13 10:05:28 2026}: reset: moving to main
+[33m45da22c[m HEAD@{Mon Jul 13 10:03:00 2026}: reset: moving to main
+[33m45bacf7[m HEAD@{Mon Jul 13 10:02:43 2026}: checkout: moving from week1 to week1
+[33m45bacf7[m HEAD@{Mon Jul 13 09:57:57 2026}: commit: Add week1 tasks
+[33m45da22c[m HEAD@{Mon Jul 13 09:56:33 2026}: checkout: moving from week1 to week1
+[33m45da22c[m HEAD@{Mon Jul 13 09:53:02 2026}: checkout: moving from main to week1
+[33m45da22c[m refs/heads/main@{Sat Jul 11 22:46:40 2026}: clone: from https://github.com/Pallavim731/aiml-internship.git
+[33m45da22c[m refs/remotes/origin/HEAD@{Sat Jul 11 22:46:40 2026}: clone: from https://github.com/Pallavim731/aiml-internship.git
+[33m45da22c[m HEAD@{Sat Jul 11 22:46:40 2026}: clone: from https://github.com/Pallavim731/aiml-internship.git

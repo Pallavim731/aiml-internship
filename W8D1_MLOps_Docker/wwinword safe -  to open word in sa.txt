@@ -1,0 +1,1 @@
+wwinword /safe ->>  to open word in safe mode

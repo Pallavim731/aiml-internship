@@ -1,0 +1,29 @@
+Week 6 LangChain Document Chatbot
+
+LangChain is a framework used to build applications powered by language models.
+
+LangChain provides components such as prompts, models, output parsers, retrievers, tools, agents, and memory.
+
+A document chatbot can answer questions using information contained in documents. The document is first loaded into the application and divided into smaller chunks.
+
+Text splitting is useful because large documents may be too long to process as a single input. Smaller chunks can be converted into embeddings.
+
+Embeddings are numerical representations of text. Text with similar meanings generally has similar vector representations.
+
+ChromaDB is a vector database that can store embeddings and perform similarity searches.
+
+When a user asks a question, the question is converted into an embedding and the vector database retrieves the most relevant document chunks.
+
+The retrieved document chunks are then provided to the language model as context.
+
+Ollama allows language models to run locally on a computer. In this project, Ollama is used to run the llama3.2:3b language model.
+
+Conversation memory allows an application to remember previous messages during a conversation.
+
+Tools allow an AI agent to perform specific operations. A calculator can perform mathematical calculations, while a web search tool can retrieve information from the internet.
+
+A Retrieval Augmented Generation system, also called RAG, combines document retrieval with language generation.
+
+The main steps in a RAG pipeline are document loading, document splitting, embedding generation, vector storage, retrieval, prompt construction, and answer generation.
+
+The Week 6 project combines LangChain, Ollama, ChromaDB, document retrieval, conversation memory, and tools to create a simple AI document chatbot.

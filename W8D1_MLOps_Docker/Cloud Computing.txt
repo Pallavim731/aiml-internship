@@ -1,0 +1,38 @@
+Cloud Computing
+1. Introduction to GCP
+2. Cloud Value Proposition
+3. Cloud Platform Security
+Introduction to AWS
+Major Cloud Services
+Cloud Deployment Models
+Introduction to cloud computing
+The benefiters of cloud computing
+Cloud Service models and benifits
+cloud pricing and support
+Introduction to Azure: Microsoft basics
+12. Core azure Services
+
+Artificial Intelligence
+1. Generative AI : Human
+2. Artificial Intelligence and machine learning
+3. Elements of an Artificial Intelligence Architect
+4. Regression vs classification
+5. Automating content generation
+6. Prompt engineering Lab
+7. NLP case studies
+8. AI in industry
+9. Advanced NLP: Introduction to Transformer Models
+10.OpenAI API Playground
+11. common applications of deep learning
+12. deep learning math
+13. Introduction to Generative AI
+14. introduction to prompt engineering
+15. Artificial Intelligence: Types of Artificial Intelligence
+16. OpenAI API
+17. Getting Started with NLP
+
+
+MFA
+How to setup MFA in my device?
+how do i do that for existing user
+IAM user: giving access
