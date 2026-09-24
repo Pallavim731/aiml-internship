@@ -85,4 +85,13 @@ The registered model was served using:
 ```bash
 
 mlflow models serve -m "models:/W11D2\_Iris\_Random\_Forest/1" -p 5002 --host 127.0.0.1 --env-manager local
+## Verification
+
+The registered model was tested successfully using the MLflow serving API.
+
+Example input:
+
+`[5.1, 3.5, 1.4, 0.2]`
+
+The model returned a prediction successfully.
 
