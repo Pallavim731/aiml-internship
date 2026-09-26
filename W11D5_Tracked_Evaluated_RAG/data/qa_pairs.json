@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is RAG?",
+        "ground_truth": "RAG is a technique that combines information retrieval with text generation."
+    },
+    {
+        "question": "What are the main stages of a RAG pipeline?",
+        "ground_truth": "The main stages are document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+    },
+    {
+        "question": "Why is text splitting used in RAG?",
+        "ground_truth": "Text splitting divides large documents into smaller chunks so that relevant information can be retrieved more easily."
+    },
+    {
+        "question": "What are embeddings?",
+        "ground_truth": "Embeddings represent text as numerical vectors, where texts with similar meanings have vectors that are close to each other."
+    },
+    {
+        "question": "What is Chroma used for in a RAG system?",
+        "ground_truth": "Chroma can store embeddings and retrieve documents based on similarity."
+    },
+    {
+        "question": "What does the retrieval stage do?",
+        "ground_truth": "The retrieval stage searches the vector database using the user's question and returns relevant chunks as context."
+    },
+    {
+        "question": "How can LangGraph be used in RAG?",
+        "ground_truth": "LangGraph can organize a RAG pipeline as a graph of connected processing steps such as retrieving documents and generating an answer."
+    },
+    {
+        "question": "What is MLflow used for in a RAG system?",
+        "ground_truth": "MLflow is used to track parameters, metrics, artifacts, and experiment runs."
+    },
+    {
+        "question": "What does Ragas evaluate?",
+        "ground_truth": "Ragas evaluates RAG applications using metrics such as faithfulness, answer relevancy, context precision, and context recall."
+    },
+    {
+        "question": "What is faithfulness in RAG evaluation?",
+        "ground_truth": "Faithfulness measures whether an answer is supported by the retrieved context."
+    }
+]

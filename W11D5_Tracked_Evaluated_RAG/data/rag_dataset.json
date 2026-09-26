@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is RAG?",
+        "answer": "RAG is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+        "contexts": [
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+        ],
+        "ground_truth": "RAG is a technique that combines information retrieval with text generation."
+    },
+    {
+        "question": "What are the main stages of a RAG pipeline?",
+        "answer": "The main stages of a RAG pipeline, as described in the retrieved context, are:\n\ndocument loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+        "contexts": [
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+        ],
+        "ground_truth": "The main stages are document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+    },
+    {
+        "question": "Why is text splitting used in RAG?",
+        "answer": "Based on the provided context, it appears that there is insufficient information to determine why text splitting is used in RAG. The context provides an overview of the RAG pipeline, including stages such as document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation, but it does not explicitly state the purpose or reason for using text splitting in this specific stage.",
+        "contexts": [
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+        ],
+        "ground_truth": "Text splitting divides large documents into smaller chunks so that relevant information can be retrieved more easily."
+    },
+    {
+        "question": "What are embeddings?",
+        "answer": "The information provided in the retrieved context does not explicitly state what embeddings are in terms of their definition or purpose. However, it does describe how embeddings are used, stating that they \"represent text as numerical vectors.\" It also mentions that similar meanings produce vectors that are close to each other in vector space.\n\nIt is clear from the provided context that embeddings are used to facilitate the retrieval of information relevant to a user's question by enabling the storage and comparison of numerical representations of text. This information suggests that embeddings are related to the numerical representation of text, but it does not provide a definition of what embeddings are in a broader sense.\n\nTherefore, based on the provided context, the answer to the question \"What are embeddings?\" is that embeddings represent text as numerical vectors, but the context does not provide further information that would allow for a more detailed or specific definition.",
+        "contexts": [
+            "Document loading converts source files into documents that can be processed by the system. Text splitting divides large documents into smaller chunks. Smaller chunks make it easier to retrieve information relevant to a user's question.\n\nEmbeddings represent text as numerical vectors. Similar meanings produce vectors that are close to each other in vector space. Vector databases such as Chroma can store these embeddings and retrieve documents based on similarity.",
+            "Document loading converts source files into documents that can be processed by the system. Text splitting divides large documents into smaller chunks. Smaller chunks make it easier to retrieve information relevant to a user's question.\n\nEmbeddings represent text as numerical vectors. Similar meanings produce vectors that are close to each other in vector space. Vector databases such as Chroma can store these embeddings and retrieve documents based on similarity.",
+            "Document loading converts source files into documents that can be processed by the system. Text splitting divides large documents into smaller chunks. Smaller chunks make it easier to retrieve information relevant to a user's question.\n\nEmbeddings represent text as numerical vectors. Similar meanings produce vectors that are close to each other in vector space. Vector databases such as Chroma can store these embeddings and retrieve documents based on similarity."
+        ],
+        "ground_truth": "Embeddings represent text as numerical vectors, where texts with similar meanings have vectors that are close to each other."
+    },
+    {
+        "question": "What is Chroma used for in a RAG system?",
+        "answer": "I do not have enough information to accurately answer the question \"What is Chroma used for in a RAG system?\" based on the provided context. The context only explains the general workings of a RAG system, but it does not mention Chroma or its role within the system.",
+        "contexts": [
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.",
+            "RAG Knowledge Base\n\nRetrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.\n\nA typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation."
+        ],
+        "ground_truth": "Chroma can store embeddings and retrieve documents based on similarity."
+    },
+    {
+        "question": "What does the retrieval stage do?",
+        "answer": "The retrieval stage searches the vector database using the user's question. The most relevant chunks are returned as context.",
+        "contexts": [
+            "The retrieval stage searches the vector database using the user's question. The most relevant chunks are returned as context.\n\nThe generation stage sends the question and retrieved context to a language model. The model uses the provided context to generate an answer.",
+            "The retrieval stage searches the vector database using the user's question. The most relevant chunks are returned as context.\n\nThe generation stage sends the question and retrieved context to a language model. The model uses the provided context to generate an answer.",
+            "The retrieval stage searches the vector database using the user's question. The most relevant chunks are returned as context.\n\nThe generation stage sends the question and retrieved context to a language model. The model uses the provided context to generate an answer."
+        ],
+        "ground_truth": "The retrieval stage searches the vector database using the user's question and returns relevant chunks as context."
+    },
+    {
+        "question": "How can LangGraph be used in RAG?",
+        "answer": "LangGraph can be used in RAG to organize a pipeline as a graph of connected processing steps. Each node performs a specific operation, such as retrieving documents or generating an answer. The graph controls the flow between these operations.\n\nIt can be used for this purpose because LangGraph is described as being used to organize a RAG pipeline in the same paragraph that explains it provides a framework for building AI agents and assigning tasks to those agents.\n\nThe context provides no further information on how LangGraph should be used in RAG, only that it can be used for this purpose.",
+        "contexts": [
+            "LangGraph can be used to organize a RAG pipeline as a graph of connected processing steps. Each node performs a specific operation, such as retrieving documents or generating an answer. The graph controls the flow between these operations.\n\nCrewAI provides a framework for building AI agents and assigning tasks to those agents. In a RAG application, an agent can use retrieved information to perform a question-answering task.",
+            "LangGraph can be used to organize a RAG pipeline as a graph of connected processing steps. Each node performs a specific operation, such as retrieving documents or generating an answer. The graph controls the flow between these operations.\n\nCrewAI provides a framework for building AI agents and assigning tasks to those agents. In a RAG application, an agent can use retrieved information to perform a question-answering task.",
+            "LangGraph can be used to organize a RAG pipeline as a graph of connected processing steps. Each node performs a specific operation, such as retrieving documents or generating an answer. The graph controls the flow between these operations.\n\nCrewAI provides a framework for building AI agents and assigning tasks to those agents. In a RAG application, an agent can use retrieved information to perform a question-answering task."
+        ],
+        "ground_truth": "LangGraph can organize a RAG pipeline as a graph of connected processing steps such as retrieving documents and generating an answer."
+    },
+    {
+        "question": "What is MLflow used for in a RAG system?",
+        "answer": "In a RAG system, MLflow is used for tracking settings such as chunk size, retrieval count, model name, and evaluation results.",
+        "contexts": [
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.",
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.",
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall."
+        ],
+        "ground_truth": "MLflow is used to track parameters, metrics, artifacts, and experiment runs."
+    },
+    {
+        "question": "What does Ragas evaluate?",
+        "answer": "Based on the provided context, Ragas evaluates RAG applications.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.",
+        "contexts": [
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.",
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.",
+            "MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.\n\nRagas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall."
+        ],
+        "ground_truth": "Ragas evaluates RAG applications using metrics such as faithfulness, answer relevancy, context precision, and context recall."
+    },
+    {
+        "question": "What is faithfulness in RAG evaluation?",
+        "answer": "Faithfulness in RAG evaluation measures whether an answer is supported by the retrieved context.",
+        "contexts": [
+            "Faithfulness measures whether an answer is supported by the retrieved context. Answer relevancy measures how relevant the generated answer is to the question. Context precision measures whether relevant information appears near the top of the retrieved context. Context recall measures whether the retrieved context contains the information needed to answer the question.",
+            "Faithfulness measures whether an answer is supported by the retrieved context. Answer relevancy measures how relevant the generated answer is to the question. Context precision measures whether relevant information appears near the top of the retrieved context. Context recall measures whether the retrieved context contains the information needed to answer the question.",
+            "Faithfulness measures whether an answer is supported by the retrieved context. Answer relevancy measures how relevant the generated answer is to the question. Context precision measures whether relevant information appears near the top of the retrieved context. Context recall measures whether the retrieved context contains the information needed to answer the question."
+        ],
+        "ground_truth": "Faithfulness measures whether an answer is supported by the retrieved context."
+    }
+]

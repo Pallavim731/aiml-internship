@@ -1,0 +1,27 @@
+RAG Knowledge Base
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.
+
+A typical RAG pipeline has several stages: document loading, text splitting, embedding generation, vector storage, retrieval, and answer generation.
+
+Document loading converts source files into documents that can be processed by the system. Text splitting divides large documents into smaller chunks. Smaller chunks make it easier to retrieve information relevant to a user's question.
+
+Embeddings represent text as numerical vectors. Similar meanings produce vectors that are close to each other in vector space. Vector databases such as Chroma can store these embeddings and retrieve documents based on similarity.
+
+The retrieval stage searches the vector database using the user's question. The most relevant chunks are returned as context.
+
+The generation stage sends the question and retrieved context to a language model. The model uses the provided context to generate an answer.
+
+LangGraph can be used to organize a RAG pipeline as a graph of connected processing steps. Each node performs a specific operation, such as retrieving documents or generating an answer. The graph controls the flow between these operations.
+
+CrewAI provides a framework for building AI agents and assigning tasks to those agents. In a RAG application, an agent can use retrieved information to perform a question-answering task.
+
+MLflow is used for machine learning experiment tracking and model management. It can record parameters, metrics, artifacts, and experiment runs. In a RAG system, MLflow can track settings such as chunk size, retrieval count, model name, and evaluation results.
+
+Ragas is a framework for evaluating RAG applications. It can measure properties such as faithfulness, answer relevancy, context precision, and context recall.
+
+Faithfulness measures whether an answer is supported by the retrieved context. Answer relevancy measures how relevant the generated answer is to the question. Context precision measures whether relevant information appears near the top of the retrieved context. Context recall measures whether the retrieved context contains the information needed to answer the question.
+
+Ollama allows language models to run locally. A RAG system can use an Ollama language model for answer generation and an Ollama embedding model for creating vector representations.
+
+A good RAG system should retrieve relevant information, generate answers based on that information, and evaluate the quality of its responses. Tracking experiments makes it possible to compare different configurations and understand how changes affect the system.
