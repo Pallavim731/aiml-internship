@@ -1,0 +1,29 @@
+RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.
+
+A typical RAG pipeline has several stages. First, documents are loaded into the system. The documents are then divided into smaller pieces called chunks. Each chunk is converted into a numerical representation called an embedding. The embeddings are stored in a vector database.
+
+When a user asks a question, the question is converted into an embedding. The vector database searches for chunks that are semantically similar to the question. The retrieved chunks are then provided as context to a language model. The language model generates an answer using the retrieved context.
+
+ChromaDB is a vector database that can be used to store and search document embeddings. It supports similarity search and is commonly used in RAG applications. ChromaDB can be used locally, making it useful for development and experimentation.
+
+Chunk size is an important parameter in a RAG system. A very small chunk may not contain enough information to answer a question. A very large chunk may contain unnecessary information and reduce retrieval precision. Choosing an appropriate chunk size can improve retrieval quality.
+
+The retrieval parameter k determines how many documents or chunks are returned from the vector database. A smaller k returns fewer pieces of context, while a larger k returns more context. Increasing k can improve context recall but may also introduce irrelevant information.
+
+Ragas is a framework used to evaluate Retrieval-Augmented Generation systems. It provides metrics that measure different parts of a RAG pipeline. Common Ragas metrics include faithfulness, answer relevancy, context precision, and context recall.
+
+Faithfulness measures whether the generated answer is supported by the retrieved context. A highly faithful answer should not contain claims that are unsupported by the provided context.
+
+Answer relevancy measures how relevant the generated answer is to the user's question. An answer can be factually correct but still have low relevancy if it does not directly address the question.
+
+Context precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately. Higher context precision means less irrelevant information is retrieved.
+
+Context recall measures whether the retrieved context contains the information needed to answer the question. Low context recall can indicate that important information was not retrieved.
+
+MLflow is a platform for tracking machine learning experiments and managing models. It can record parameters, metrics, artifacts, and model versions. MLflow can also be used to manage models during deployment.
+
+Ollama allows language models to run locally on a computer. Local models can be used for development without sending prompts to an external API. In this project, Ollama can provide the language model used to generate answers and embeddings.
+
+RAG evaluation helps developers identify weaknesses in retrieval and generation. If context recall is low, retrieval settings such as chunk size or k may need adjustment. If answer relevancy is low, the prompt or generation configuration may need improvement.
+
+The goal of RAG evaluation is to measure system quality systematically rather than relying only on manual inspection. Comparing metrics before and after optimisation helps determine whether a change improves the pipeline.

@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "chunk_size": 500,
+    "retrieval_k": 3,
+    "scores": {
+      "faithfulness": NaN,
+      "answer_relevancy": NaN,
+      "context_precision": NaN,
+      "context_recall": 1.0
+    }
+  },
+  "optimized": {
+    "chunk_size": 300,
+    "retrieval_k": 4,
+    "scores": {
+      "faithfulness": NaN,
+      "answer_relevancy": 0.8790502317929924,
+      "context_precision": NaN,
+      "context_recall": 1.0
+    }
+  },
+  "lowest_baseline_metric": "faithfulness"
+}
