@@ -1,0 +1,24 @@
+artifact_path: file:C:/Users/DELL/Downloads/aiml-internship/W11D3_MLflow_Model_Serving_REST_API/mlruns/1/models/m-3887f6c4eb4b435c8364bec97317b3b5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types:
+    - sklearn.tree._tree.Tree
+mlflow_version: 3.16.1
+model_id: m-3887f6c4eb4b435c8364bec97317b3b5
+model_size_bytes: 1821527
+model_uuid: m-3887f6c4eb4b435c8364bec97317b3b5
+prompts: null
+run_id: 70de42b17f3c4c06be52d9e2c8b30b87
+utc_time_created: '2026-09-25 03:30:32.888426'
