@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does RAG stand for?",
+    "answer": "RAG stands for Retrieval-Augmented Generation."
+  },
+  {
+    "question": "What are the main stages of a typical RAG pipeline?",
+    "answer": "A typical RAG pipeline loads documents, splits them into chunks, creates embeddings, stores the embeddings in a vector database, retrieves relevant chunks, and uses a language model to generate an answer."
+  },
+  {
+    "question": "What is ChromaDB used for in a RAG system?",
+    "answer": "ChromaDB is used as a vector database to store and search document embeddings."
+  },
+  {
+    "question": "Why is chunk size important in RAG?",
+    "answer": "Chunk size is important because very small chunks may not contain enough information, while very large chunks may contain unnecessary information and reduce retrieval precision."
+  },
+  {
+    "question": "What does the retrieval parameter k control?",
+    "answer": "The retrieval parameter k controls how many documents or chunks are returned from the vector database."
+  },
+  {
+    "question": "What does the Ragas faithfulness metric measure?",
+    "answer": "Faithfulness measures whether the generated answer is supported by the retrieved context."
+  },
+  {
+    "question": "What does answer relevancy measure?",
+    "answer": "Answer relevancy measures how relevant the generated answer is to the user's question."
+  },
+  {
+    "question": "What does context precision measure?",
+    "answer": "Context precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately."
+  },
+  {
+    "question": "What does context recall measure?",
+    "answer": "Context recall measures whether the retrieved context contains the information needed to answer the question."
+  },
+  {
+    "question": "Why is RAG evaluation useful?",
+    "answer": "RAG evaluation helps developers identify weaknesses in retrieval and generation and measure system quality systematically."
+  }
+]

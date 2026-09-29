@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does RAG stand for?",
+    "answer": "RAG stands for Retrieval-Augmented Generation.",
+    "contexts": [
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.",
+      "A typical RAG pipeline has several stages. First, documents are loaded into the system. The documents are then divided into smaller pieces called chunks. Each chunk is converted into a numerical representation called an embedding. The embeddings are stored in a vector database.",
+      "Chunk size is an important parameter in a RAG system. A very small chunk may not contain enough information to answer a question. A very large chunk may contain unnecessary information and reduce retrieval precision. Choosing an appropriate chunk size can improve retrieval quality."
+    ],
+    "ground_truth": "RAG stands for Retrieval-Augmented Generation."
+  },
+  {
+    "question": "What are the main stages of a typical RAG pipeline?",
+    "answer": "The main stages of a typical RAG pipeline are:\n\n1. Loading documents into the system\n2. Dividing documents into chunks\n3. Converting chunks into embeddings\n4. Storing embeddings in a vector database.",
+    "contexts": [
+      "A typical RAG pipeline has several stages. First, documents are loaded into the system. The documents are then divided into smaller pieces called chunks. Each chunk is converted into a numerical representation called an embedding. The embeddings are stored in a vector database.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.",
+      "RAG evaluation helps developers identify weaknesses in retrieval and generation. If context recall is low, retrieval settings such as chunk size or k may need adjustment. If answer relevancy is low, the prompt or generation configuration may need improvement.\n\nThe goal of RAG evaluation is to measure system quality systematically rather than relying only on manual inspection. Comparing metrics before and after optimisation helps determine whether a change improves the pipeline."
+    ],
+    "ground_truth": "A typical RAG pipeline loads documents, splits them into chunks, creates embeddings, stores the embeddings in a vector database, retrieves relevant chunks, and uses a language model to generate an answer."
+  },
+  {
+    "question": "What is ChromaDB used for in a RAG system?",
+    "answer": "ChromaDB is used to store and search document embeddings in a RAG system, allowing the system to retrieve relevant information from an external knowledge source.",
+    "contexts": [
+      "ChromaDB is a vector database that can be used to store and search document embeddings. It supports similarity search and is commonly used in RAG applications. ChromaDB can be used locally, making it useful for development and experimentation.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.",
+      "A typical RAG pipeline has several stages. First, documents are loaded into the system. The documents are then divided into smaller pieces called chunks. Each chunk is converted into a numerical representation called an embedding. The embeddings are stored in a vector database."
+    ],
+    "ground_truth": "ChromaDB is used as a vector database to store and search document embeddings."
+  },
+  {
+    "question": "Why is chunk size important in RAG?",
+    "answer": "Chunk size is important in RAG because it must contain enough information to answer a question, but not so much that it reduces retrieval precision.",
+    "contexts": [
+      "Chunk size is an important parameter in a RAG system. A very small chunk may not contain enough information to answer a question. A very large chunk may contain unnecessary information and reduce retrieval precision. Choosing an appropriate chunk size can improve retrieval quality.",
+      "RAG evaluation helps developers identify weaknesses in retrieval and generation. If context recall is low, retrieval settings such as chunk size or k may need adjustment. If answer relevancy is low, the prompt or generation configuration may need improvement.\n\nThe goal of RAG evaluation is to measure system quality systematically rather than relying only on manual inspection. Comparing metrics before and after optimisation helps determine whether a change improves the pipeline.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model."
+    ],
+    "ground_truth": "Chunk size is important because very small chunks may not contain enough information, while very large chunks may contain unnecessary information and reduce retrieval precision."
+  },
+  {
+    "question": "What does the retrieval parameter k control?",
+    "answer": "The retrieval parameter k controls how many documents or chunks are returned from the vector database.",
+    "contexts": [
+      "The retrieval parameter k determines how many documents or chunks are returned from the vector database. A smaller k returns fewer pieces of context, while a larger k returns more context. Increasing k can improve context recall but may also introduce irrelevant information.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.",
+      "Chunk size is an important parameter in a RAG system. A very small chunk may not contain enough information to answer a question. A very large chunk may contain unnecessary information and reduce retrieval precision. Choosing an appropriate chunk size can improve retrieval quality."
+    ],
+    "ground_truth": "The retrieval parameter k controls how many documents or chunks are returned from the vector database."
+  },
+  {
+    "question": "What does the Ragas faithfulness metric measure?",
+    "answer": "The Ragas faithfulness metric measures whether the generated answer is supported by the retrieved context.",
+    "contexts": [
+      "Ragas is a framework used to evaluate Retrieval-Augmented Generation systems. It provides metrics that measure different parts of a RAG pipeline. Common Ragas metrics include faithfulness, answer relevancy, context precision, and context recall.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context. A highly faithful answer should not contain claims that are unsupported by the provided context.",
+      "RAG evaluation helps developers identify weaknesses in retrieval and generation. If context recall is low, retrieval settings such as chunk size or k may need adjustment. If answer relevancy is low, the prompt or generation configuration may need improvement.\n\nThe goal of RAG evaluation is to measure system quality systematically rather than relying only on manual inspection. Comparing metrics before and after optimisation helps determine whether a change improves the pipeline.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model."
+    ],
+    "ground_truth": "Faithfulness measures whether the generated answer is supported by the retrieved context."
+  },
+  {
+    "question": "What does answer relevancy measure?",
+    "answer": "Answer relevancy measures how relevant the generated answer is to the user's question.",
+    "contexts": [
+      "Answer relevancy measures how relevant the generated answer is to the user's question. An answer can be factually correct but still have low relevancy if it does not directly address the question.\n\nContext precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately. Higher context precision means less irrelevant information is retrieved.",
+      "Ragas is a framework used to evaluate Retrieval-Augmented Generation systems. It provides metrics that measure different parts of a RAG pipeline. Common Ragas metrics include faithfulness, answer relevancy, context precision, and context recall.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context. A highly faithful answer should not contain claims that are unsupported by the provided context.",
+      "Context recall measures whether the retrieved context contains the information needed to answer the question. Low context recall can indicate that important information was not retrieved.\n\nMLflow is a platform for tracking machine learning experiments and managing models. It can record parameters, metrics, artifacts, and model versions. MLflow can also be used to manage models during deployment."
+    ],
+    "ground_truth": "Answer relevancy measures how relevant the generated answer is to the user's question."
+  },
+  {
+    "question": "What does context precision measure?",
+    "answer": "Context precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately.",
+    "contexts": [
+      "Answer relevancy measures how relevant the generated answer is to the user's question. An answer can be factually correct but still have low relevancy if it does not directly address the question.\n\nContext precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately. Higher context precision means less irrelevant information is retrieved.",
+      "Context recall measures whether the retrieved context contains the information needed to answer the question. Low context recall can indicate that important information was not retrieved.\n\nMLflow is a platform for tracking machine learning experiments and managing models. It can record parameters, metrics, artifacts, and model versions. MLflow can also be used to manage models during deployment.",
+      "Ragas is a framework used to evaluate Retrieval-Augmented Generation systems. It provides metrics that measure different parts of a RAG pipeline. Common Ragas metrics include faithfulness, answer relevancy, context precision, and context recall.\n\nFaithfulness measures whether the generated answer is supported by the retrieved context. A highly faithful answer should not contain claims that are unsupported by the provided context."
+    ],
+    "ground_truth": "Context precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately."
+  },
+  {
+    "question": "What does context recall measure?",
+    "answer": "Context recall measures whether the retrieved context contains the information needed to answer the question.",
+    "contexts": [
+      "Context recall measures whether the retrieved context contains the information needed to answer the question. Low context recall can indicate that important information was not retrieved.\n\nMLflow is a platform for tracking machine learning experiments and managing models. It can record parameters, metrics, artifacts, and model versions. MLflow can also be used to manage models during deployment.",
+      "Answer relevancy measures how relevant the generated answer is to the user's question. An answer can be factually correct but still have low relevancy if it does not directly address the question.\n\nContext precision measures whether the retrieved context contains relevant information and whether relevant chunks are ranked appropriately. Higher context precision means less irrelevant information is retrieved.",
+      "The retrieval parameter k determines how many documents or chunks are returned from the vector database. A smaller k returns fewer pieces of context, while a larger k returns more context. Increasing k can improve context recall but may also introduce irrelevant information."
+    ],
+    "ground_truth": "Context recall measures whether the retrieved context contains the information needed to answer the question."
+  },
+  {
+    "question": "Why is RAG evaluation useful?",
+    "answer": "RAG evaluation is useful because it helps measure system quality systematically and determine whether changes improve the pipeline.",
+    "contexts": [
+      "RAG evaluation helps developers identify weaknesses in retrieval and generation. If context recall is low, retrieval settings such as chunk size or k may need adjustment. If answer relevancy is low, the prompt or generation configuration may need improvement.\n\nThe goal of RAG evaluation is to measure system quality systematically rather than relying only on manual inspection. Comparing metrics before and after optimisation helps determine whether a change improves the pipeline.",
+      "RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation. Instead of depending only on information stored in a language model, a RAG system retrieves relevant information from an external knowledge source and provides that information to the language model.",
+      "Chunk size is an important parameter in a RAG system. A very small chunk may not contain enough information to answer a question. A very large chunk may contain unnecessary information and reduce retrieval precision. Choosing an appropriate chunk size can improve retrieval quality."
+    ],
+    "ground_truth": "RAG evaluation helps developers identify weaknesses in retrieval and generation and measure system quality systematically."
+  }
+]
