@@ -1,9 +1,8 @@
+import numpy as np
 from fastapi import FastAPI
 from pydantic import BaseModel
-import numpy as np
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import load_iris
-
+from sklearn.ensemble import RandomForestClassifier
 
 app = FastAPI(title="W12D1 MLOps ML API")
 
